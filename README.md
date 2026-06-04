@@ -56,6 +56,23 @@
 * Frontend Development
 
 ---
+## Project Portfolio
+
+Most of my frontend and website development projects are available on my project account:
+
+🔗 GitHub Project Account:
+https://github.com/nexorasolution2559-collab
+
+Featured Website Projects:
+
+* Nexora Solutions
+* Gym Website
+* Cafe Website
+* Hotel Website
+* Restaurant Website
+* Real Estate Website
+  
+---
 
 ## Additional Skills & Interests
 
